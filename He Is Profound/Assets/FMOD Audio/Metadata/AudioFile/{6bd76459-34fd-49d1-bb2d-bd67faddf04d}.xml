@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.10.00">
+    <object class="AudioFile" id="{6bd76459-34fd-49d1-bb2d-bd67faddf04d}">
+        <property name="assetPath">
+            <value>shotgun-spas_12-RA_The_Sun_God-503834910-Edit2.wav</value>
+        </property>
+        <property name="frequencyInKHz">
+            <value>96</value>
+        </property>
+        <property name="channelCount">
+            <value>2</value>
+        </property>
+        <property name="length">
+            <value>2.5</value>
+        </property>
+        <relationship name="masterAssetFolder">
+            <destination>{f408dff9-a513-41c9-9751-2b74798b6e46}</destination>
+        </relationship>
+    </object>
+</objects>
